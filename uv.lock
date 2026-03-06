@@ -340,7 +340,7 @@ wheels = [
 
 [[package]]
 name = "granular"
-version = "0.22.0a1"
+version = "0.22.0"
 source = { editable = "." }
 dependencies = [
     { name = "cloudpickle" },
